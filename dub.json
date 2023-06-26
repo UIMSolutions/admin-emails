@@ -1,6 +1,6 @@
 {
-	"name": "admin-myname",
-	"description": "Admin myname",
+	"name": "admin-emails",
+	"description": "Admin emails",
 	"authors": [
 		"Sicherheitsschmiede",
 		"Ozan Nurettin Süel"
@@ -16,7 +16,7 @@
 			"name": "test",
 			"targetType": "library",
 			"versions": [
-				"test_admin_myname"
+				"test_admin_emails"
 			]
 		}
 	],

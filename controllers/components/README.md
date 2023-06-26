@@ -1,1 +1,1 @@
-# Package 📦 admin.myname.controllers.components
+# Package 📦 admin.emails.controllers.components

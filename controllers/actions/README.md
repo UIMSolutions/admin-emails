@@ -1,1 +1,1 @@
-# Package 📦 admin.myname.controllers.actions
+# Package 📦 admin.emails.controllers.actions

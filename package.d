@@ -1,4 +1,4 @@
-module admins.myname;
+module admins.emails;
 
 public { // required uim libraries
   import uim.core;
@@ -6,7 +6,7 @@ public { // required uim libraries
   import uim.admins;
 }
 
-public { // admin-myname libraries
-  import admins.myname.controllers;
-  import admins.myname.views;
+public { // admin-emails libraries
+  import admins.emails.controllers;
+  import admins.emails.views;
 }

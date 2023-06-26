@@ -1,1 +1,1 @@
-module admins.myname.controllers.components;
+module admins.emails.controllers.components;

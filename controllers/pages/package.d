@@ -1,1 +1,1 @@
-module admins.myname.controllers.pages;
+module admins.emails.controllers.pages;
