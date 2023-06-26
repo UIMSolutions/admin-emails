@@ -1,1 +1,1 @@
-# Package 📦 admin.myname.helpers
+# Package 📦 admin.emails.helpers

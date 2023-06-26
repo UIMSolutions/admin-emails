@@ -1,1 +1,1 @@
-# Package 📦 admin.myname.views
+# Package 📦 admin.emails.views

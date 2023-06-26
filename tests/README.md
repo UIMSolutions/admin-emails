@@ -1,1 +1,1 @@
-# Package 📦 admins.myname.tests
+# Package 📦 admins.emails.tests

@@ -1,1 +1,1 @@
-module admins.myname.views.components;
+module admins.emails.views.components;

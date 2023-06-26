@@ -1,1 +1,1 @@
-module admins.myname.helpers;
+module admins.emails.helpers;

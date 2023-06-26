@@ -1,2 +1,2 @@
-# Package 📦 admin.myname.views.components
+# Package 📦 admin.emails.views.components
 

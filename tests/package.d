@@ -1,1 +1,1 @@
-module admins.myname.tests;
+module admins.emails.tests;
